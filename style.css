@@ -67,7 +67,7 @@ body {
 	color: #fff;
 }
 
-.blogger {
+.nimo {
 	display: inline-block;
 	background-color: #ffa500;
 	padding: 0.2px 0.2rem;
@@ -119,7 +119,7 @@ body {
 	background-color: transparent;
 	color: #fff;
 }
-.blogger:hover {
+.nimo:hover {
 	background-color: transparent;
 	color: #fff;
 }
@@ -172,7 +172,7 @@ body {
 		font-size: 40px;
 	}
 
-	.blogger {
+	.nimo {
 		padding: 8px 2.5rem;
 	}
 
